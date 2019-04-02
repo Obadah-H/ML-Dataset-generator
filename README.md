@@ -9,3 +9,11 @@ This class accepts the following arguments:
 - attributes: number of data attributes (data features)
 - mode: (0) not seperated / (1) classes can touch each other / (2) seperated
 - intersection: the percentage of intersection in case it is not seperated
+
+Example of graphical representation of data output for 2d hyperspheres:
+
+<img src="https://github.com/Obadah-H/ML-Dataset-generator/blob/master/README_Files/2d_0.png?raw=true" width="268" height="252"> <img src="https://github.com/Obadah-H/ML-Dataset-generator/blob/master/README_Files/3d_0.png?raw=true" width="268" height="250">
+
+Example of graphical representation of data output for 3d hyperspheres:
+
+<img src="https://github.com/Obadah-H/Edge-Detector-for-Segmented-Images/blob/master/output_cars/3d_1.png?raw=true" width="268" height="252">

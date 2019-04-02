@@ -15,6 +15,7 @@ Example of graphical representation of data output for 2d hyperspheres:
 <img src="https://github.com/Obadah-H/ML-Dataset-generator/blob/master/README_Files/2d_0.png?raw=true" width="268" height="252"> <img src="https://github.com/Obadah-H/ML-Dataset-generator/blob/master/README_Files/3d_0.png?raw=true" width="268" height="250">
 </p>
 Example of graphical representation of data output for 3d hyperspheres:
+
 <p align="center"> 
 <img src="https://github.com/Obadah-H/ML-Dataset-generator/blob/master/README_Files/3d_1.png?raw=true" width="268" height="252">
 </p>

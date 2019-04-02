@@ -16,4 +16,4 @@ Example of graphical representation of data output for 2d hyperspheres:
 
 Example of graphical representation of data output for 3d hyperspheres:
 
-<img src="https://github.com/Obadah-H/Edge-Detector-for-Segmented-Images/blob/master/output_cars/3d_1.png?raw=true" width="268" height="252">
+<img src="https://github.com/Obadah-H/ML-Dataset-generator/blob/master/README_Files/3d_1.png?raw=true" width="268" height="252">
